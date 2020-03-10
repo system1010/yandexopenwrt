@@ -5,4 +5,4 @@ https://yadi.sk/d/BFVoWluz472NZg
 
 image of linux build server for openwrt  (qemu)
 
-unpack: cat xaa xab xac ... xan | tar -xz
+unpack: cat xaa xab xac ... xan | tar -xz        14 fails
